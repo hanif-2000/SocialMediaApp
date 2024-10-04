@@ -48,5 +48,21 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+
+	<key>NSPhotoLibraryUsageDescription</key>
+<string>Your message to the user when requesting access to photo library</string>
+<key>NSCameraUsageDescription</key>
+<string>Your message to the user when requesting access to the camera</string>
+
+<key>UIAppFonts</key>
+<array>
+  <string>FontAwesome.ttf</string>
+  <string>MaterialIcons.ttf</string>
+  <string>Ionicons.ttf</string>
+  <string>AntDesign.ttf</string>
+  <string>Entypo.ttf</string>
+  <string>Feather.ttf</string>
+</array>
+
 </dict>
 </plist>
